@@ -1,0 +1,18 @@
+# Secrets — never commit these
+.env
+firebase-service-account.json
+
+# Database (real user data)
+data/*.db
+data/*.db-journal
+
+# Python
+__pycache__/
+*.pyc
+.venv/
+venv/
+*.egg-info/
+
+# Editors
+.idea/
+.vscode/
