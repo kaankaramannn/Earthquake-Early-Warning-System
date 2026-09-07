@@ -33,6 +33,16 @@ systems like Google's Android Earthquake Alerts and UC Berkeley's MyShake.
    you can save additional points to watch — a parent's house, a workplace —
    each with its own radius and magnitude threshold, independent of your own.
 
+## Screenshots
+
+| Login | Notifications | Critical full-screen alert |
+|:---:|:---:|:---:|
+| ![Login screen](screenshots/login.png) | ![Notification list — crowd alert, update, and official Kandilli confirmation](screenshots/notifications.png) | ![Full-screen critical alert, auto-opened from a locked screen](screenshots/fullscreen-alert.png) |
+
+| Settings — location & thresholds | Map-based location picker |
+|:---:|:---:|
+| ![Settings screen with radius/magnitude thresholds and an extra saved location](screenshots/settings.png) | ![Picking an extra location on the map](screenshots/location-picker.png) |
+
 ## Tech stack
 
 | Layer      | Stack |
